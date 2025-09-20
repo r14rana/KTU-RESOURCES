@@ -1,22 +1,12 @@
 [
-{
-"id": "ece-sig-3-qp-a",
-"title": "Signals: Set A",
-"branch": "electronics",
-"semester": 3,
-"subject": "Signals & Systems",
-"category": "question",
-"tags": ["midterm","set-a"],
-"file_url": "/resources/Signals/Set_A.pdf"
-},
-{
-"id": "ece-sig-3-sol-a",
-"title": "Signals: Set A (Solved)",
-"branch": "electronics",
-"semester": 3,
-"subject": "Signals & Systems",
-"category": "solution",
-"tags": ["solved"],
-"file_url": "/resources/ECE/Signals/Set_A_Solved.pdf"
-}
+  {
+    "id": "ece-sig-8-notes-u1",
+    "title": "Signals – Unit 1 Notes",
+    "branch": "electronics",
+    "semester": 8,
+    "subject": "Signals & Systems",
+    "category": "notes",
+    "tags": ["unit-1"],
+    "file_url": "/resources/Signals/Set_A.pdf"
+  }
 ]
