@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4146726f-ffa6-4002-be31-61ae365ea35c",
+    "title": "fsdf",
+    "branch": "electronics",
+    "semester": 8,
+    "subject": "fsdfds",
+    "category": "syllabus",
+    "tags": [],
+    "file_url": "/uploads/electronics/8/syllabus/1758367465696_e9c33ef0-1fcf-4bfd-83d7-edfb78d2dd9d.pdf",
+    "file_size": 2248,
+    "mime_type": "application/pdf",
+    "created_at": "2025-09-20T11:24:25.697Z"
+  },
+  {
+    "id": "d7a855f4-db54-4461-8e26-17aaf6c5ce18",
+    "title": "repeat",
+    "branch": "electronics",
+    "semester": 8,
+    "subject": "wireless communicaiton",
+    "category": "notes",
+    "tags": [],
+    "file_url": "/uploads/electronics/8/notes/1758367368017_1e1c836d-818d-4c63-a341-541c4052e728.pdf",
+    "file_size": 2248,
+    "mime_type": "application/pdf",
+    "created_at": "2025-09-20T11:22:48.020Z"
+  },
+  {
+    "id": "dd17a194-8d7c-435b-bc86-b6b1f5f21254",
+    "title": "EC",
+    "branch": "electronics",
+    "semester": 8,
+    "subject": "wireless communicaiton",
+    "category": "question",
+    "tags": [],
+    "file_url": "/uploads/electronics/8/question/1758367175390_f4b36dca-4e04-4e75-94a4-2d07c4debf45.pdf",
+    "file_size": 1793185,
+    "mime_type": "application/pdf",
+    "created_at": "2025-09-20T11:19:35.393Z"
+  }
+]

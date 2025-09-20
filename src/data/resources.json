@@ -1,0 +1,22 @@
+[
+{
+"id": "ece-sig-3-qp-a",
+"title": "Signals: Set A",
+"branch": "electronics",
+"semester": 3,
+"subject": "Signals & Systems",
+"category": "question",
+"tags": ["midterm","set-a"],
+"file_url": "/resources/Signals/Set_A.pdf"
+},
+{
+"id": "ece-sig-3-sol-a",
+"title": "Signals: Set A (Solved)",
+"branch": "electronics",
+"semester": 3,
+"subject": "Signals & Systems",
+"category": "solution",
+"tags": ["solved"],
+"file_url": "/resources/ECE/Signals/Set_A_Solved.pdf"
+}
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sig-2023-a",
+    "title": "Signals 2023 Set A",
+    "subject": "Signals & Systems",
+    "semester": 3,
+    "year": 2023,
+    "type": "question",
+    "tags": ["midterm","set-a"],
+    "file_url": "/resources/Signals/2023_Set_A.pdf"
+  }
+]
